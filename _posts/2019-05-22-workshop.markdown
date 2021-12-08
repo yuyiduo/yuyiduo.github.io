@@ -1,0 +1,24 @@
+---
+title:  "Car Workshop"
+subtitle: "XRLoft Interior Vol2"
+author: "XRLoft"
+avatar: "img/authors/xrloft.png"
+image: "img/workshop.jpg"
+date:   2019-05-22 12:12:12
+---
+
+一个汽车车间场景，在这个资源包中，你可以了解到HD render pipline、Volume Settings、Post-process Volume、Lighting Settings等相关设置以及怎么样使用ShaderGraph制作一个酷酷的切换车身贴图的车漆Shader，使用Timeline和Cinemachine制作镜头动画，新的Prefabe系统和Text Mesh Pro的用法等等...
+
+### 主要特点
+
+- 完整的室内空间
+- 高清渲染管线
+- 40多个可以直接使用的3D模型
+- 2K-4K 贴图
+- Text Mesh Pro
+- Timeline
+- Shader Graph
+- 灯光烘焙(Progressive CPU)
+- 保留所有灯光设置
+- 所有图片及视频截取自Game视图
+
