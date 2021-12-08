@@ -1,0 +1,20 @@
+---
+title:  "Bicycle"
+subtitle: "XRLOFT Props Vol3"
+author: "XRLoft"
+avatar: "img/authors/xrloft.png"
+image: "img/bicyle.jpg"
+date:   2019-02-20 12:12:12
+---
+
+一个使用unity2018高清渲染管线制作的老式自行车的场景，在这个资源包中可以了解到关于高清渲染管线、屏幕特效、灯光等等的相关设置。
+
+
+
+### 主要特点:
+
+- 高清渲染管线
+- 4k 贴图
+- 实时灯光渲染
+- 截图来自Game视图
+
