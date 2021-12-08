@@ -1,0 +1,17 @@
+---
+title:  "Fire ATV"
+subtitle: "XRLoft Vehices Vol2"
+author: "XRlof"
+avatar: "img/authors/xrloft.png"
+image: "img/atv.png"
+date:   2020-10-13 12:12:12
+---
+
+This a Fire ATV.The package includes models, all texture maps, prefab and material! PBR ready!
+
+### FEATURES:
+
+- 2k Texture
+- Baked GI
+- All Light Setting
+
