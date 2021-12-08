@@ -2,8 +2,8 @@
 title:  "The Loft Room"
 subtitle: "XRLOFT Interior Vol 01"
 author: "XRloft"
-avatar: "img/authors/xrloft.jpg"
-image: "img/loftroom.png"
+avatar: "img/authors/xrloft.png"
+image: "img/loftroom.jpg"
 date:   2019-05-17 12:12:12
 ---
 
