@@ -1,6 +1,6 @@
 ---
 title:  "Bicycle"
-subtitle: "XRLOFT Props Vol3"
+subtitle: "XRLOFT Props Vol1"
 author: "XRLoft"
 avatar: "img/authors/xrloft.png"
 image: "img/bicyle.jpg"
