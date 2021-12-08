@@ -1,0 +1,20 @@
+---
+title:  "The Loft Room"
+subtitle: "XRLOFT Interior Vol 01"
+author: "XRloft"
+avatar: "img/authors/xrloft.png"
+image: "img/loftroom.png"
+date:   2019-05-17 12:12:12
+---
+
+一个使用unity2018高清渲染管线制作的室内空间，在这个资源包中你可以了解到高清渲染管线、屏幕特效、烘焙、灯光等的一些相关设置。
+
+### 主要特点
+
+- 一个完整的内部空间
+-  高清渲染管线
+- 20多个完整的3D模型
+-  4K PBR贴图
+-  烘焙(Progressive CPU)
+-  保留灯光设置
+-  截图及视频来自Game视图截取
